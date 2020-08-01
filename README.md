@@ -15,5 +15,5 @@ Step 5 - Enter threshold price at which you want to sell the share. <br />
 Thank You for Using this. <br />
 Give proper credits. <br />
 
-<img width=“964” alt=“example” src=“stockprojectex.png”>
+![example](https://github.com/AbdulBasit-MrRobo/Stock-Price-Notifier/blob/master/stockprojectex.png?raw=true)
 Note : This is just an example image.<br />
